@@ -17,6 +17,7 @@
         <item name="colorAccent">@color/colorAccent2</item>
         <item name="android:textColor">@color/colorGrey</item>
         <item name="android:textSize">@dimen/fontsize</item>
+        <item name="android:textStyle">bold|italic</item>
     </style>
 
     <!-- This style is set up to give special styling to all of my EditText boxes
